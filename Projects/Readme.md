@@ -5,8 +5,8 @@
 
 ## Tools
 
-Python: Python3, NumPy, Pandas, Seaborn, Matplotlib
-Machine Learning: scikit-learn, scipy
+- Python: Python3, NumPy, Pandas, Seaborn, Matplotlib
+- Machine Learning: scikit-learn, scipy
 
 ## Skills
 
@@ -29,13 +29,14 @@ https://www.flipkart.com/search?q=iphone+13+pro+max&sid=tyy%2C4io&as=on&as-show=
 
 - Medium Used: Jupyter Notebook (Python)
 
-Objective:
+### Objective:
 
 - Scrap model,price,rating,product name from the website.
 - After Scraping Save all the scraped data into a dataset.
 - Export the saved dataset into a csv file and name it as "iphone13promax.csv"
 
-Conclusion:
+### Conclusion:
+
 - From the scraping of Apple Iphone13promax 16.7% of people gave rating as 4.6 for the product and 83.3% of people gave rating as 4.7 for the product.
 As the new version are intoducing there is more sales on the Iphone products.
 
