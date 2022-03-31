@@ -17,6 +17,7 @@ Python3 , Machine Learning, Data Analysis, Statistical Modeling, Data Visualizat
 ## Exploratory Data Analysis in Python:
 
 Application Of Descriptive Analytics : IPL Auction 2022
+
 By Visualization and Descriptive Statistics finding the Mumbai Indians and Chennai Super Kings contrasting buys, sold and unsold players in the auction, highest auction player and overseas auction player in 2022
 
 ## Machine Learning
