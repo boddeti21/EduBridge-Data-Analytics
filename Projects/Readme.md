@@ -25,11 +25,7 @@ By Visualization and Descriptive Statistics finding the Mumbai Indians and Chenn
 Diabetes Prediction using Machine Learning : The objective of the dataset is to diagnostically predict whether or not a patient has diabetes
 
 Skills used : Data Preprocessing, Exploratory DataAnalysis , scikit-learn, pandas , python3
-Algorithms Used : K-Nearest Neighbor, Logistic Regression, Random Forest , XG Boost
-Result : Random Forest after applying Hyper-parameter tunning gives best result in predicting Diabetes.
-Project Completion Certificate by SmartInternz
-Predicting The Count Of Bikes Rented : Created and Trained Model which predicts the count of Bikes rented
 
-Skills used : Data Preprocessing, Time-Series DataVisualization, Exploratory DataAnalysis , scikit-learn, pandas ,python3
-Algorithms Used: Linear Regression, Decision Tree
-Result : 98% accuracy on test dataset.
+Algorithms Used : K-Nearest Neighbor, Logistic Regression, Random Forest , XG Boost
+
+Result : Random Forest after applying Hyper-parameter tunning gives best result in predicting Diabetes.
