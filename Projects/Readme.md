@@ -46,6 +46,6 @@ Diabetes Prediction using Machine Learning : The objective of the dataset is to 
 
 Skills used : Data Preprocessing, Exploratory DataAnalysis , scikit-learn, pandas , python3
 
-Algorithms Used : K-Nearest Neighbor, Logistic Regression, Random Forest , XG Boost
+Algorithms Used : K-Nearest Neighbor, Logistic Regression, Random Forest
 
 Result : Random Forest after applying Hyper-parameter tunning gives best result in predicting Diabetes.
