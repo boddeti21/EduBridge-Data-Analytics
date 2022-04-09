@@ -4,7 +4,7 @@
 
 - Python Programs
 - R Programs
-- ML Approach - Social network Ads
+- ML Approach
 - Statistic Assignments
 
 ### Tools
@@ -12,5 +12,3 @@
 - Jupyter notebook
 - Pycharm
 - R studio
-- Pandas
-- Numpy
