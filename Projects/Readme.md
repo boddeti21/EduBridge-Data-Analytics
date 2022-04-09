@@ -13,7 +13,7 @@
 
 ### Exploratory Data Analysis in Python:
 
-#### 1. Application Of Descriptive Analytics : IPL Auction 2022
+#### 1. Application of Descriptive Analytics : IPL Auction 2022
 - By Visualization and Descriptive Statistics finding the Mumbai Indians and Chennai Super Kings contrasting buys, sold and unsold players in the auction, highest auction player and overseas auction player in 2022
 
 #### 2. Application of Descriptive Analytics : iFood
@@ -41,20 +41,13 @@ As the new version are intoducing there is more sales on the Iphone products.
 
 #### 1. Diabetes Disease
 - The objective of the dataset is to diagnostically predict whether or not a patient has diabetes
-#### Skills used
-- Data Preprocessing, Exploratory DataAnalysis , scikit-learn, pandas , python3
-#### Algorithms used
-- K-Nearest Neighbor, Logistic Regression, Random Forest
-#### Conclusion
-- Random Forest after applying Hyper-parameter tunning gives best result in predicting Diabetes.
+- Skills used: Data Preprocessing, Exploratory DataAnalysis , scikit-learn, pandas , python3
+- Algorithms used: K-Nearest Neighbor, Logistic Regression, Random Forest
+-Conclusion: Random Forest after applying Hyper-parameter tunning gives best result in predicting Diabetes.
 
 #### 2. SMS Spam Collection
 - The objective of the dataset is to find the frequencies of words in the spam and non-spam messages.
 - The words of the messages will be the model features
-#### Skills used
-- Data Preprocessing, Exploratory DataAnalysis , scikit-learn, pandas , python3
-#### Algorithms used
-- Multinomial Naive Bayes
-#### Conclusion
-- In this 13% of the messages are spam
-- The model is 98% accurat for predicting the spam
+- Skills used: Data Preprocessing, Exploratory DataAnalysis , scikit-learn, pandas , python3
+- Algorithms used: Multinomial Naive Bayes
+- Conclusion: In this 13% of the messages are spam and the model is 98% accurat for predicting the spam.
