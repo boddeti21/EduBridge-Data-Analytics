@@ -33,7 +33,7 @@
 - 
 ### Programming Language
 - Python
-- 
+
 ### Tool Used
 - Jupyter Notebook
 
@@ -59,7 +59,7 @@
 - R Programming
 
 ### Tool Used
-- R Studio
+- Jupyter Notebook
 
 ### Structure
 - Part 1: Importing Libraries
