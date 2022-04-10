@@ -13,39 +13,29 @@
 - The datasets consists of several medical predictor variables and one target variable, Outcome.
 - Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
 
-### Acknowledgment:
--This dataset is downloaded from the Kaggle
-
 ### Structure:
 
 ### Task 1: Load the Data and Import Libraries
 - Load the dataset using pandas.
 - Import essential modules and helper functions from NumPy and Matplotlib and sklearn.
 - Explore the pandas dataframe using the head() and info() functions.
-- 
 ### Task 2: Exploratory Data Analysis:
 - I used a correlation matrix, pairplot(), pointplot(), piechart using Seaborn & Matplotlib to visualize the data
 - Used pandas inbuilt functions like df.hist(), crosstab()
-
 ### Task 3: Spliting data into X(independent features) and y(dependent feature)
 - Used Feature scaling to scale the features using standrad scaler
 - Split again into Train-Test split
-
 ### Task 4: Train the model using various algorithms
 - K-Nearest Neighbour
 - Logistic Regression
 - Random Forest
-
 ### Task 5: Display accuracy score, Confusion matrix, and Classification report
-
 ### Task 6: Used RandomizedSearch-CV for:
 - Random Forest
-
 ### Task 7: Display accuracy score, Confusion matrix, and Classification report
 
 ### Conclusion
 - Random Forest after applying Hyper-parameter tunning gives best result in predicting Diabetes.
-
 
 # 2. SMS Spam Detection-Predictive Analysis
 - Collection of SMS messages tagged as spam or legitimate
@@ -72,3 +62,30 @@
 ### Conclusion
 - In this 13% of the messages are spam
 - The model is 98% accurat for predicting the spam
+
+# 3. Fuel Price In India
+- Analysing the fuel price in India
+
+### Abstract
+- The data is daily diesel price across the various city in India.
+- The charge varies state to state has Indian state government levy extra tax on the fuel.
+- The government changed over time. The new fuel charge update rule came into effect.
+- The data consist of the date, fuel price and city name.
+- There are a total of seven cities, such as Bengaluru, Chennai, Mumbai, Hyderabad, Delhi, Kolkata and Coimbatore.
+- The fuel price is Indian rupees.
+
+### Purpose of Analysis
+- How to handle missing data in time-series data?
+- What is the price change with respect to a global price change?
+
+### Structure
+- Part1: Libraries for doing EDA process
+- Part2: Exploring the Dataset
+- Part3: Visualisation of Data
+- Part4: Preparing the data for Predictive Analysis- Linear Regression
+- Part 5: Conculsion
+
+### Conclusion
+- Forecasting Crude Oil prices is a very challenging problem due to the high volatility of oil prices.
+- Here,we developed a new oil price prediction approach using machine learning paradigm for analysis.
+- Our stream learning model will be updated whenever new oil price data are available, and provided to model, so the model continuously evolves over time, and can capture the changing pattern of oil prices.
