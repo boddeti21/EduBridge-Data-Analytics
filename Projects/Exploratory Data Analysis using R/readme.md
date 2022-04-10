@@ -4,16 +4,18 @@
 - In this competition, we extend our last year's dataset to 251 fine-grained (prepared) food categories with 118,475 training images collected from the web.We provide human verified labels for both the validation set of 11,994 images and the test set of 28,377 images.
 - The goal is to build a model to predict the fine-grained food-category label given an image.
 
-### Program Language: R Programming
+### Program Language
+- R Programming
 
-### Tool Used: R Studio
+### Tool Used
+- R Studio
 
 ### Structure
 - Part 1: Importing Libraries
 - Part 2: Reading the data
 - Part 3: Exploring the data
 - Part 4: Cleaning the data
-- part 5: Analysing and Visualization the data
+- Part 5: Analysing and Visualization the data
 - part 6: Conclusion
 
 ### Conclusion
