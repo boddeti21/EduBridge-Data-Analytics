@@ -1,4 +1,5 @@
-# 1. Covid - 19
+# 1. Covid - 19    
+<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Exploratory%20Data%20Analysis%20in%20Python/COVID%20-%2019%20.ipynb"><h1>Social Network ML using Scikit Learn</h1></a>
 - Coronavirus is a family of viruses that are named after their spiky crown. 
 - The novel coronavirus, also known as SARS-CoV-2, is a contagious respiratory virus that first reported in Wuhan, China. 
 - On 2/11/2020, the World Health Organization designated the name COVID-19 for the disease caused by the novel coronavirus. 
