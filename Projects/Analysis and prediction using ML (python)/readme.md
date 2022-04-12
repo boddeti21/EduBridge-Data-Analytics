@@ -1,4 +1,4 @@
-# 1. Diabetes Prediction using Machine-Learning
+# <a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Analysis%20and%20prediction%20using%20ML%20(python)/Diabetes%20Disease.ipynb"><h1> 1. Diabetes Disease </h1></a>
 - Predict whether a patient has diabetes or not
 
 ### Context
@@ -37,7 +37,7 @@
 ### Conclusion
 - Random Forest after applying Hyper-parameter tunning gives best result in predicting Diabetes.
 
-# 2. SMS Spam Detection-Predictive Analysis
+# <a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Analysis%20and%20prediction%20using%20ML%20(python)/SMS%20Spam%20Collection.ipynb"><h1> 2. SMS Spam Detection-Predictive Analysis </h1></a>
 - Collection of SMS messages tagged as spam or legitimate
 
 ### Abstract
@@ -63,7 +63,7 @@
 - In this 13% of the messages are spam
 - The model is 98% accurat for predicting the spam
 
-# 3. Fuel Price In India
+# <a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Analysis%20and%20prediction%20using%20ML%20(python)/Diesel%20Price%20Prediction%20Using%20Supervised%20Learning.ipynb"><h1> 3. Fuel Price in India </h1></a>
 - Analysing the fuel price in India
 
 ### Abstract
