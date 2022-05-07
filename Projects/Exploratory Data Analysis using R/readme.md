@@ -25,7 +25,7 @@
 - The food items were mainly sweet and spicy flavors. The flavors were different in different regions.
 - The spicy food items were mainly from the states such as Chhattisgarh, Gujrat, Haryana, Nagaland, NCT of Delhi,Tripura.
 
-# 2.Foods in India 
+# 2.Suicide Rates
 - Suicide is the taking of one's own life. It is a death that happens when someone harms themselves because they want to end their life. A suicide attempt is when someone harms themselves to try to end their life, but they do not die. 
 - Suicide is the third leading cause of death among young adults worldwide. There is a growing recognition that prevention strategies need to be tailored to the region-specific demographics of a country and to be implemented in a culturally-sensitive manner.
 - The suicide rate in lots of countries have been quite high for many years, including the developing and developed countries. 
