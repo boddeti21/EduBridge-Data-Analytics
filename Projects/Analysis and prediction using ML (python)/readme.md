@@ -1,4 +1,4 @@
-# <a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Analysis%20and%20prediction%20using%20ML%20(python)/Diabetes%20Disease.ipynb"><h1> 1. Diabetes Disease </h1></a>
+# 1. Diabetes Disease 
 - Predict whether a patient has diabetes or not
 
 ### Context
@@ -37,7 +37,7 @@
 ### Conclusion
 - Random Forest after applying Hyper-parameter tunning gives best result in predicting Diabetes.
 
-# <a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Analysis%20and%20prediction%20using%20ML%20(python)/SMS%20Spam%20Collection.ipynb"><h1> 2. SMS Spam Detection-Predictive Analysis </h1></a>
+# 2. SMS Spam Detection-Predictive Analysis 
 - Collection of SMS messages tagged as spam or legitimate
 
 ### Abstract
@@ -63,7 +63,7 @@
 - In this 13% of the messages are spam
 - The model is 98% accurat for predicting the spam
 
-# <a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Analysis%20and%20prediction%20using%20ML%20(python)/Diesel%20Price%20Prediction%20Using%20Supervised%20Learning.ipynb"><h1> 3. Fuel Price in India </h1></a>
+# 3. Fuel Price in India 
 - Analysing the fuel price in India
 
 ### Abstract
@@ -89,3 +89,36 @@
 - Forecasting Crude Oil prices is a very challenging problem due to the high volatility of oil prices.
 - Here,we developed a new oil price prediction approach using machine learning paradigm for analysis.
 - Our stream learning model will be updated whenever new oil price data are available, and provided to model, so the model continuously evolves over time, and can capture the changing pattern of oil prices.
+
+# 3. Spotify 
+- Spotify is a Swedish music streaming and media services provider where users can listen to their Favourite Artists, Songs and Albums.
+- Founded in 2006, the company mainly provides an audio streaming platform, the "Spotify" platform, that offers DRM-restricted music and podcasts from record labels and media companies.
+- As a freemium service, basic features are free with advertisements or automatic music videos.
+- Additional features, such as offline listening and commercial-free listening, are offered via paid subscriptions.
+
+### Abstract
+- Spotify also has a very robust recommendation system that is geared towards the listener's taste based on their previous tracks. However, I am interested in the other side of the coin.
+- By the end of this endeavor we should be able to provide a guideline or a at least a good starting point for those wanting to break into the industry. Let's jump into it!
+
+### Purpose of Analysis
+- What trends could be mined so we might provide recommendations for the artists and producers of the industry as well.
+- What are the current trends consumer likes? What would it take for a song to go viral?
+- What does the market currently want?
+- The plan is to analyze the top 50 of the past year 2021 to recognize patterns, see what factors contributes to the virality.
+- Then we will analyze the top hits from 2010-2019 database to confirm the findings and predict future trends.
+
+### Structure
+- Part1: Libraries for doing EDA process
+- Part2: Exploring the Dataset
+- Part3: Visualisation of Data
+- Part4: Preparing the data for Analysis
+- Part 5: Conculsion
+
+### Conclusion
+- Logistic Regression - 50%
+- Random Forest - 62%
+- Decision Tree - 75%
+- KNN - 50%
+- SVM - 50%
+- Naive Bayes - 62.5%
+- So we could find that Decision Tree and Naive bayes shows best accuracy.
