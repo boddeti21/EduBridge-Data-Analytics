@@ -1,4 +1,4 @@
-<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Exploratory%20Data%20Analysis%20using%20R/iFood.R"><h4> 1.Foods in India</h4></a>
+<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Exploratory%20Data%20Analysis%20using%20R/iFood.R"><h4> 1.Foods in India</h1></a>
 - What did you eat today? Wondering if you are eating a healthy diet? Automatic food identification can assist towards food intake monitoring to maintain a healthy diet.
 - Food classification is a challenging problem due to the large number of food categories, high visual similarity between different food categories, as well as the lack of datasets that are large enough for training deep models.
 - In this competition, we extend our last year's dataset to 251 fine-grained (prepared) food categories with 118,475 training images collected from the web.We provide human verified labels for both the validation set of 11,994 images and the test set of 28,377 images.
@@ -25,7 +25,7 @@
 - The food items were mainly sweet and spicy flavors. The flavors were different in different regions.
 - The spicy food items were mainly from the states such as Chhattisgarh, Gujrat, Haryana, Nagaland, NCT of Delhi,Tripura.
 
-<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Exploratory%20Data%20Analysis%20using%20R/Suicide%20Rate%20Analysis.R"><h4> 2.Suicide Rates</h4></a>
+<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Exploratory%20Data%20Analysis%20using%20R/Suicide%20Rate%20Analysis.R"><h1> 2.Suicide Rates</h4></a>
 - Suicide is the taking of one's own life. It is a death that happens when someone harms themselves because they want to end their life. A suicide attempt is when someone harms themselves to try to end their life, but they do not die. 
 - Suicide is the third leading cause of death among young adults worldwide. There is a growing recognition that prevention strategies need to be tailored to the region-specific demographics of a country and to be implemented in a culturally-sensitive manner.
 - The suicide rate in lots of countries have been quite high for many years, including the developing and developed countries. 
