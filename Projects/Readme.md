@@ -9,7 +9,7 @@
 ### Skills
 - Python3 , Machine Learning, Data Analysis, Statistical Modeling, Data Visualization, Statistics
 
-### Projects:
+### Name of the Projects:
 
 <a href="https://github.com/boddeti21/Edubrige-Data-Analytics/tree/main/Projects/Analysis%20and%20prediction%20using%20ML%20(python)"><h4>Analysis and rediction using ML (python)</h4></a>
 
