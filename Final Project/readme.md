@@ -1,5 +1,3 @@
-BigMart Sales💡Simple Forecast❗❗
-
 <a href="https://github.com/boddeti21/EduBridge-Data-Analytics/blob/main/Final%20Project/BigMart%20Sales%F0%9F%92%A1Simple%20Forecast%E2%9D%97%E2%9D%97.ipynb"><h1>1.BigMart SalesSimple Forecast</h1></a>
 
 ### Introduction
