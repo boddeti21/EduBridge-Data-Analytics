@@ -1,4 +1,4 @@
-# <a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Analysis%20and%20prediction%20using%20ML%20(python)/Diabetes%20Disease.ipynb"><h4>1. Diabetes Disease</h4></a>
+<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Analysis%20and%20prediction%20using%20ML%20(python)/Diabetes%20Disease.ipynb"><h4># 1. Diabetes Disease</h4></a>
 - Predict whether a patient has diabetes or not
 
 ### Context
@@ -37,7 +37,7 @@
 ### Conclusion
 - Random Forest after applying Hyper-parameter tunning gives best result in predicting Diabetes.
 
-# <a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Analysis%20and%20prediction%20using%20ML%20(python)/SMS%20Spam%20Collection.ipynb"><h4>2. SMS Spam Collection</a> 
+<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Analysis%20and%20prediction%20using%20ML%20(python)/SMS%20Spam%20Collection.ipynb"><h4>2. SMS Spam Collection</a> 
 - Collection of SMS messages tagged as spam or legitimate
 
 ### Abstract
@@ -63,7 +63,7 @@
 - In this 13% of the messages are spam
 - The model is 98% accurat for predicting the spam
 
-# <a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Analysis%20and%20prediction%20using%20ML%20(python)/Diesel%20Price%20Prediction%20Using%20Supervised%20Learning.ipynb"><h4>3. Fuel Price in India</h4></a> 
+<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Analysis%20and%20prediction%20using%20ML%20(python)/Diesel%20Price%20Prediction%20Using%20Supervised%20Learning.ipynb"><h4>3. Fuel Price in India</h4></a> 
 - Analysing the fuel price in India
 
 ### Abstract
@@ -90,7 +90,7 @@
 - Here,we developed a new oil price prediction approach using machine learning paradigm for analysis.
 - Our stream learning model will be updated whenever new oil price data are available, and provided to model, so the model continuously evolves over time, and can capture the changing pattern of oil prices.
 
-# <a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Analysis%20and%20prediction%20using%20ML%20(python)/Spotify.ipynb"><h4>4. Spotify</h4></a>
+<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Analysis%20and%20prediction%20using%20ML%20(python)/Spotify.ipynb"><h4>4. Spotify</h4></a>
 - Spotify is a Swedish music streaming and media services provider where users can listen to their Favourite Artists, Songs and Albums.
 - Founded in 2006, the company mainly provides an audio streaming platform, the "Spotify" platform, that offers DRM-restricted music and podcasts from record labels and media companies.
 - As a freemium service, basic features are free with advertisements or automatic music videos.
