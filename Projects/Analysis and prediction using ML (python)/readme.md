@@ -1,4 +1,4 @@
-<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Analysis%20and%20prediction%20using%20ML%20(python)/Diabetes%20Disease.ipynb"><h4># 1. Diabetes Disease</h4></a>
+<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Analysis%20and%20prediction%20using%20ML%20(python)/Diabetes%20Disease.ipynb"><h4>1. Diabetes Disease</h4></a>
 - Predict whether a patient has diabetes or not
 
 ### Context
