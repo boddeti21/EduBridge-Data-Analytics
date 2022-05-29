@@ -7,3 +7,7 @@
 - This repository contains all the projects done during my training at EduBridge
 - Practice challenges during my journey through Code Basics
 - Project are done using Python and R codes using softwares Jupyter Notebook , R-studio
+
+<a href="https://github.com/boddeti21/EduBridge-Data-Analytics/tree/main/Assignment"><h1>Assignment</h1></a>
+<a href="https://github.com/boddeti21/EduBridge-Data-Analytics/tree/main/Final%20Project"><h1>Final Project</h1></a>
+<a href="https://github.com/boddeti21/EduBridge-Data-Analytics/tree/main/Projects"><h1>Projects</h1></a>
