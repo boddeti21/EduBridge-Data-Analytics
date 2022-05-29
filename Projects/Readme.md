@@ -9,45 +9,19 @@
 ### Skills
 - Python3 , Machine Learning, Data Analysis, Statistical Modeling, Data Visualization, Statistics
 
-## Contents
+### Projects:
 
-### Exploratory Data Analysis in Python:
+<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/tree/main/Projects/Analysis%20and%20prediction%20using%20ML%20(python)"><h4>Analysis and rediction using ML (python)</h4></a>
 
-#### 1. Application of Descriptive Analytics : IPL Auction 2022
-- By Visualization and Descriptive Statistics finding the Mumbai Indians and Chennai Super Kings contrasting buys, sold and unsold players in the auction, highest auction player and overseas auction player in 2022
+<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/tree/main/Projects/Exploratory%20Data%20Analysis%20in%20Python"><h4>Exploratory Data Analysis in Python</h4></a>
 
-#### 2. Application of Descriptive Analytics : iFood
-- In this competition, we extend our last year's dataset to 251 fine-grained (prepared) food categories with 118,475 training images collected from the web.
-- We provide human verified labels for both the validation set of 11,994 images and the test set of 28,377 images.
-- The goal is to build a model to predict the fine-grained food-category label given an image.
+<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/tree/main/Projects/Exploratory%20Data%20Analysis%20using%20R"><h4>Exploratory Data Analysis using R</h4></a>
 
-### Web-scrapping using Python
+<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/tree/main/Projects/Exploratory%20Data%20Analysis%20using%20R"><h4>Exploratory Data Analysis using R</h4></a>
+<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/tree/main/Projects/Descriptive%20Statistics%20using%20Python%20and%20R"><h4>Descriptive Statistics using Python and R</h4></a>
 
-- Web Scraping - Using BeautifulSoup
-- Link Used for Scraping: 
-https://www.flipkart.com/search?q=iphone+13+pro+max&sid=tyy%2C4io&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_2_6_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_2_6_na_na_na&as-pos=2&as-type=RECENT&suggestionId=iphone+13+pro+max%7CMobiles&requestId=970df2f0-611d-4908-a5d2-1bd630787530&as-searchtext=iphone
-- Medium Used: Jupyter Notebook (Python)
+<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/tree/main/Projects/Web%20-%20scrapping%20in%20Python"><h4>Web - scrapping in Python</h4></a>
 
-### Objective:
-- Scrap model,price,rating,product name from the website.
-- After Scraping Save all the scraped data into a dataset.
-- Export the saved dataset into a csv file and name it as "iphone13promax.csv"
+<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/tree/main/Projects/Tableau%20Dashboards"><h4>Tableau Dashboard</h4></a>
 
-### Conclusion:
-- From the scraping of Apple Iphone13promax 16.7% of people gave rating as 4.6 for the product and 83.3% of people gave rating as 4.7 for the product.
-As the new version are intoducing there is more sales on the Iphone products.
-
-### Analysis and prediction using ML (python)
-
-#### 1. Diabetes Disease
-- The objective of the dataset is to diagnostically predict whether or not a patient has diabetes
-- Skills used: Data Preprocessing, Exploratory DataAnalysis , scikit-learn, pandas , python3
-- Algorithms used: K-Nearest Neighbor, Logistic Regression, Random Forest
--Conclusion: Random Forest after applying Hyper-parameter tunning gives best result in predicting Diabetes.
-
-#### 2. SMS Spam Collection
-- The objective of the dataset is to find the frequencies of words in the spam and non-spam messages.
-- The words of the messages will be the model features
-- Skills used: Data Preprocessing, Exploratory DataAnalysis , scikit-learn, pandas , python3
-- Algorithms used: Multinomial Naive Bayes
-- Conclusion: In this 13% of the messages are spam and the model is 98% accurat for predicting the spam.
+<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/tree/main/Projects/Excel%20Dashboards"><h4>Excel Dashboard</h4></a>
