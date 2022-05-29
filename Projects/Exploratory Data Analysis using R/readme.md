@@ -1,4 +1,4 @@
-# 1.Foods in India 
+<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/tree/main/Projects/Exploratory%20Data%20Analysis%20using%20R"><h4>1.Foods in India</h4></a>
 - What did you eat today? Wondering if you are eating a healthy diet? Automatic food identification can assist towards food intake monitoring to maintain a healthy diet.
 - Food classification is a challenging problem due to the large number of food categories, high visual similarity between different food categories, as well as the lack of datasets that are large enough for training deep models.
 - In this competition, we extend our last year's dataset to 251 fine-grained (prepared) food categories with 118,475 training images collected from the web.We provide human verified labels for both the validation set of 11,994 images and the test set of 28,377 images.
