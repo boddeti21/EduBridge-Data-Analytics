@@ -1,4 +1,4 @@
-# <a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Exploratory%20Data%20Analysis%20in%20Python/COVID%20-%2019%20.ipynb"><h1> 1. Covid - 19</h1></a>
+<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Exploratory%20Data%20Analysis%20in%20Python/COVID%20-%2019%20.ipynb"><h1> 1. Covid - 19</h1></a>
 - Coronavirus is a family of viruses that are named after their spiky crown. 
 - The novel coronavirus, also known as SARS-CoV-2, is a contagious respiratory virus that first reported in Wuhan, China. 
 - On 2/11/2020, the World Health Organization designated the name COVID-19 for the disease caused by the novel coronavirus. 
@@ -25,7 +25,7 @@
 - Transmission rate (rate of infection) appeared to escalate in mid-January 2020
 - As of 30 January 2020, approximately 8,243 cases have been confirmed
 
-# <a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Exploratory%20Data%20Analysis%20in%20Python/IPL%20Auction%202022%20in%20Python.ipynb"><h1> 2. IPL Auction 2022</h1></a>
+<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Exploratory%20Data%20Analysis%20in%20Python/IPL%20Auction%202022%20in%20Python.ipynb"><h1> 2. IPL Auction 2022</h1></a>
 - The TATA IPL 2022 mega auction is conducted on 12 and 13 February 2022 in Bengaluru. A total of 590 players were selected for the auction. 
 - 204 players were sold during the two-day IPL 2022 Auction. Young Indian cricketers dominated the proceedings at the auction. 
 - All and all, the ten franchises had two fruitful days at the mega auction and that sets up for a fascinating TATA IPL 2022. 
@@ -49,7 +49,7 @@
 - This dataset was scraped off the publicly available information on the Wiki and news website in February 2022 and manually entered in the case where the data was improperly scraped. 
 - It can be used in analyze data about players in detail to understand who is good at what aspect.
 
-# <a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Exploratory%20Data%20Analysis%20in%20Python/iFood%20in%20R%20program.ipynb"><h1> 3. Foods in India </h1></a>
+<a href="https://github.com/boddeti21/Edubrige-Data-Analytics/blob/main/Projects/Exploratory%20Data%20Analysis%20in%20Python/iFood%20in%20R%20program.ipynb"><h1> 3. Foods in India </h1></a>
 - What did you eat today? Wondering if you are eating a healthy diet? Automatic food identification can assist towards food intake monitoring to maintain a healthy diet.
 - Food classification is a challenging problem due to the large number of food categories, high visual similarity between different food categories, as well as the lack of datasets that are large enough for training deep models.
 - In this competition, we extend our last year's dataset to 251 fine-grained (prepared) food categories with 118,475 training images collected from the web.We provide human verified labels for both the validation set of 11,994 images and the test set of 28,377 images.
