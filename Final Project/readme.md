@@ -1,4 +1,4 @@
-<a href="https://github.com/boddeti21/EduBridge-Data-Analytics/blob/main/Final%20Project/BigMart%20Sales%F0%9F%92%A1Simple%20Forecast%E2%9D%97%E2%9D%97.ipynb"><h1>1.BigMart SalesSimple Forecast</h1></a>
+<a href="https://github.com/boddeti21/EduBridge-Data-Analytics/blob/main/Final%20Project/BigMart%20Sales%F0%9F%92%A1Simple%20Forecast%E2%9D%97%E2%9D%97.ipynb"><h1>1.BigMart Sales Simple Forecast</h1></a>
 
 ### Introduction
 - This notebook analyzes customer behavior for that we have BigMarts Sales data collected in 2013 which is bifurcated in train (8523 records & 12 attributes) and test (5681 records & 11 attributes) data set, train data set has both independant and dependant variable(s) given below
@@ -34,7 +34,7 @@ Part 5: Conculsion
 - MRP has huge correlation with the Outlet Sales
 - For better performance we need parameter tuning
 
-<a href="https://github.com/boddeti21/EduBridge-Data-Analytics/blob/main/Final%20Project/Big_Mart_Sales_Prediction.ipynb"><h1>2.Big_Mart_Sales_Prediction</h1></a>
+<a href="https://github.com/boddeti21/EduBridge-Data-Analytics/blob/main/Final%20Project/Big_Mart_Sales_Prediction.ipynb"><h1>2.BigMart Sales Prediction</h1></a>
 
 ### Structure
 Part1: Libraries for doing EDA process
